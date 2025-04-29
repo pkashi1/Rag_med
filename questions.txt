@@ -1,0 +1,65 @@
+```
+
+"What is the definition of asthma?"
+
+"How does diabetes affect the body?"
+
+"What are the symptoms of pneumonia?"
+
+"What causes high blood pressure?"
+
+"What are the treatments for rheumatoid arthritis?"
+
+"Can you explain the difference between type 1 and type 2 diabetes?"
+
+"What are the side effects of ibuprofen?"
+
+"How is chemotherapy used to treat cancer?"
+
+"What is the recommended treatment for a common cold?"
+
+"What is the function of the liver in the human body?"
+
+"How does the circulatory system work?"
+
+"Can you describe the process of digestion?"
+
+Prevention and Health Tips:
+
+"What are the best ways to prevent heart disease?"
+
+"How can I strengthen my immune system?"
+
+"What should I do to prevent a stroke?"
+
+"What is a colonoscopy?"
+
+"How is a blood transfusion performed?"
+
+"Can you explain what happens during a surgical procedure for appendicitis?"
+
+"What are the benefits of regular exercise?"
+
+"How can a balanced diet improve health?"
+
+"Why is sleep important for overall health?"
+
+"What is Alzheimer’s disease and how is it treated?"
+
+"What are the symptoms of tuberculosis?"
+
+"How is HIV/AIDS transmitted?"
+
+"What does 'hypertension' mean?"
+
+"What is a myocardial infarction?"
+
+"What is the definition of 'anemia'?"
+
+"What should I do if someone is having a heart attack?"
+
+"How can I help someone who is choking?"
+
+"What are the first-aid steps for a burn?"
+
+```
