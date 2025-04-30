@@ -7,7 +7,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import PromptTemplate
 import random
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
-PDF_PATH = "/Users/parimalkashireddy/Desktop/rag_med/Data/The_Gale_Encyclopedia_of_Medicine.pdf"
+PDF_PATH = "data/The_Gale_Encyclopedia_of_Medicine.pdf"
 DB_FAISS_PATH = "vectorstore/db_faiss"
 # CUSTOM_PROMPT_TEMPLATE = """
 # Use the context to provide clear and medically grounded answers.
